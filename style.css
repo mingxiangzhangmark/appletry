@@ -1,0 +1,2406 @@
+.frame {
+  width: 1920px;
+  height: 6233px;
+  background-color: #ffffff;
+}
+
+.frame .overlap {
+  position: relative;
+  height: 6256px;
+}
+
+.frame .container {
+  position: absolute;
+  width: 4px;
+  height: 941px;
+  top: 0;
+  left: 0;
+}
+
+.frame .iframe {
+  display: flex;
+  flex-direction: column;
+  width: 4px;
+  height: 941px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .html {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 941px;
+  background-color: #ffffff;
+}
+
+.frame .body-paints {
+  position: absolute;
+  width: 1920px;
+  height: 6233px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(245, 245, 247) 0.71%,
+    rgb(255, 255, 255) 0.71%
+  );
+}
+
+.frame .main {
+  display: flex;
+  flex-direction: column;
+  max-width: 2560px;
+  width: 1920px;
+  align-items: center;
+  padding: 44px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame .section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 4;
+}
+
+.frame .background {
+  display: flex;
+  flex-direction: column;
+  height: 52.59px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+.frame .overlap-group-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 52.59px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 687px;
+  height: 24px;
+  top: 15px;
+  left: 617px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 637px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-SF-pro-text-regular-font-family);
+  font-weight: var(--www-apple-com-SF-pro-text-regular-font-weight);
+  color: #000000;
+  font-size: var(--www-apple-com-SF-pro-text-regular-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-SF-pro-text-regular-letter-spacing);
+  line-height: var(--www-apple-com-SF-pro-text-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-SF-pro-text-regular-font-style);
+}
+
+.frame .superscript-link {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 2px;
+  left: 637px;
+}
+
+.frame .div {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 20.6px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.frame .link-shop-product {
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 2.13e-14px;
+  position: absolute;
+  top: 3px;
+  left: 644px;
+}
+
+.frame .text-wrapper-2 {
+  color: #0071e3;
+  font-size: 14px;
+  line-height: 20.6px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.37px;
+  white-space: nowrap;
+}
+
+.frame .img {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .section-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 0px 0px 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 3;
+  background-color: #ffffff;
+  border-bottom-width: 12px;
+  border-bottom-style: solid;
+}
+
+.frame .background-2 {
+  display: flex;
+  flex-direction: column;
+  height: 692px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  z-index: 2;
+  background-color: #000000;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 0;
+  left: 0;
+}
+
+.frame .figure {
+  width: 3008px;
+  height: 692px;
+  left: -544px;
+  position: absolute;
+  top: 0;
+}
+
+.frame .container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 55px 0px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.frame .heading {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 792.54px 0px 792.55px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -0.54px;
+  margin-right: -0.54px;
+  font-family: var(--www-apple-com-semantic-heading-2-font-family);
+  font-weight: var(--www-apple-com-semantic-heading-2-font-weight);
+  color: #f5f5f7;
+  font-size: var(--www-apple-com-semantic-heading-2-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-semantic-heading-2-letter-spacing);
+  line-height: var(--www-apple-com-semantic-heading-2-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-heading-2-font-style);
+}
+
+.frame .margin {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 6px 815.66px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -0.16px;
+  margin-right: -0.16px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.frame .container-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 19px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-3 {
+  display: flex;
+  align-items: flex-start;
+  gap: 17.41px;
+  padding: 0px 849.34px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .link-learn-more {
+  display: inline-flex;
+  min-width: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.frame .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .link-buy-iphone {
+  display: inline-flex;
+  min-width: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -2.09px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #2997ff;
+}
+
+.frame .text-wrapper-6 {
+  color: #2997ff;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .background-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 692px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  z-index: 1;
+  background-color: #f5f5f7;
+}
+
+.frame .background-3 {
+  display: flex;
+  flex-direction: column;
+  height: 692px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgb(14, 20, 63) 20%,
+    rgb(255, 255, 255) 100%
+  );
+}
+
+.frame .container-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 55px 815.66px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-iphone {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-heading-2-font-family);
+  font-weight: var(--www-apple-com-semantic-heading-2-font-weight);
+  color: #f5f5f7;
+  font-size: var(--www-apple-com-semantic-heading-2-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-semantic-heading-2-letter-spacing);
+  line-height: var(--www-apple-com-semantic-heading-2-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-heading-2-font-style);
+}
+
+.frame .text-wrapper-7 {
+  margin-left: -0.16px;
+  margin-right: -0.16px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 28px;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  position: relative;
+  width: fit-content;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame .container-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 17.41px;
+  padding: 13px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper {
+  display: inline-flex;
+  min-width: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f5f5f7;
+  border-radius: 980px;
+}
+
+.frame .text-wrapper-8 {
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .link-buy-iphone-2 {
+  display: inline-flex;
+  min-width: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #f5f5f7;
+}
+
+.frame .text-wrapper-9 {
+  color: #f5f5f7;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .background-4 {
+  display: flex;
+  flex-direction: column;
+  height: 692px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  z-index: 0;
+  background-color: #f5f5f7;
+}
+
+.frame .container-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 55px 0px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.frame .heading-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 828.33px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-10 {
+  margin-left: -0.33px;
+  margin-right: -0.33px;
+  font-family: var(--www-apple-com-semantic-heading-2-font-family);
+  color: #1d1d1f;
+  font-size: var(--www-apple-com-semantic-heading-2-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-semantic-heading-2-letter-spacing);
+  line-height: var(--www-apple-com-semantic-heading-2-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: var(--www-apple-com-semantic-heading-2-font-weight);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-heading-2-font-style);
+}
+
+.frame .margin-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 6px 755.89px 0px 755.88px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -0.39px;
+  margin-right: -0.39px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.frame .link-shop-gifts-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 899.04px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .link-shop-gifts {
+  display: inline-flex;
+  min-width: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -0.54px;
+  margin-right: -0.54px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.frame .section-3 {
+  position: relative;
+  width: 1896px;
+  height: 1776px;
+  z-index: 2;
+  background-color: #ffffff;
+  border-bottom-width: 12px;
+  border-bottom-style: solid;
+}
+
+.frame .background-5 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 580px;
+  align-items: flex-start;
+  position: absolute;
+  top: 1184px;
+  left: 954px;
+  background-color: #f5f5f7;
+}
+
+.frame .div-3 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 0;
+  left: 0;
+}
+
+.frame .figure-2 {
+  width: 1262px;
+  height: 580px;
+  left: -160px;
+  position: absolute;
+  top: 0;
+}
+
+.frame .container-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+  padding: 58px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-3 {
+  position: relative;
+  max-width: 430px;
+  width: 430px;
+  height: 33px;
+}
+
+.frame .get-up-to-daily-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 290px;
+  width: 290px;
+  align-items: center;
+  padding: 0px 12.03px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .get-up-to-daily {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -0.03px;
+  margin-right: -0.03px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+}
+
+.frame .container-8 {
+  display: flex;
+  align-items: flex-start;
+  gap: 14.41px;
+  padding: 8px 362.37px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-2 {
+  display: inline-flex;
+  min-width: 62px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.frame .text-wrapper-11 {
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .link-apply-now-apple {
+  display: inline-flex;
+  min-width: 62px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -1.15px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #0066cc;
+}
+
+.frame .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  color: #0066cc;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .background-6 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 580px;
+  align-items: flex-start;
+  position: absolute;
+  top: 1184px;
+  left: 0;
+  background-color: #f5f5f7;
+}
+
+.frame .container-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 58px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-4 {
+  position: relative;
+  max-width: 430px;
+  width: 430px;
+  height: 32px;
+}
+
+.frame .get-in-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 315px;
+  width: 315px;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .get-in {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+}
+
+.frame .link-get-your-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7px 398.3px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .link-get-your {
+  display: inline-flex;
+  min-width: 62px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -0.30px;
+  margin-right: -0.30px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.frame .background-7 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 580px;
+  align-items: flex-start;
+  position: absolute;
+  top: 592px;
+  left: 954px;
+  background-color: #f5f5f7;
+}
+
+.frame .container-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 53px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-macbook {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .container-11 {
+  display: flex;
+  align-items: flex-start;
+  gap: 14.42px;
+  padding: 13px 380.67px 0px 380.66px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-3 {
+  display: inline-flex;
+  min-width: 62px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 18.86px 8px 18.84px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -1.45px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #0066cc;
+}
+
+.frame .background-8 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 580px;
+  align-items: flex-start;
+  position: absolute;
+  top: 592px;
+  left: 0;
+  background-color: #f5f5f7;
+}
+
+.frame .container-12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+  padding: 56px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-5 {
+  position: relative;
+  max-width: 430px;
+  width: 430px;
+  height: 57px;
+}
+
+.frame .container-13 {
+  display: flex;
+  align-items: flex-start;
+  gap: 14.42px;
+  padding: 8px 380.67px 0px 380.66px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .background-9 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 580px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 954px;
+  background-color: #000000;
+}
+
+.frame .container-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px 53px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.frame .heading-margin {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  align-items: center;
+  padding: 53px 352.29px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .heading-airpods {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -0.29px;
+  margin-right: -0.29px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.frame .margin-3 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  align-items: center;
+  padding: 4px 246px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-15 {
+  display: flex;
+  flex-direction: column;
+  max-width: 450px;
+  width: 450px;
+  align-items: center;
+  padding: 0px 81.2px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -3.20px;
+  margin-right: -3.20px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .margin-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 17px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-16 {
+  display: flex;
+  align-items: flex-start;
+  gap: 14.42px;
+  padding: 0px 380.67px 0px 380.66px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .link-buy-airpods-pro {
+  display: inline-flex;
+  min-width: 62px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 18.86px 8px 18.84px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -1.45px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #2997ff;
+}
+
+.frame .text-wrapper-15 {
+  color: #2997ff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .background-10 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 580px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #c7e6f1;
+}
+
+.frame .container-17 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0px 53px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.frame .container-18 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  align-items: center;
+  gap: 10px;
+  padding: 58px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-19 {
+  display: flex;
+  align-items: flex-start;
+  gap: 14.42px;
+  padding: 7px 380.67px 0px 380.66px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-20 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  align-items: center;
+  padding: 10px 386.82px 0px 386.8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-16 {
+  margin-top: -1.00px;
+  margin-left: -0.31px;
+  margin-right: -0.31px;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 144, 247) 0%,
+    rgb(186, 98, 252) 33.33%,
+    rgb(242, 65, 107) 66.67%,
+    rgb(245, 86, 0) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: var(--www-apple-com-SF-pro-text-medium-font-family);
+  font-weight: var(--www-apple-com-SF-pro-text-medium-font-weight);
+  color: transparent;
+  font-size: var(--www-apple-com-SF-pro-text-medium-font-size);
+  letter-spacing: var(--www-apple-com-SF-pro-text-medium-letter-spacing);
+  line-height: var(--www-apple-com-SF-pro-text-medium-line-height);
+  position: relative;
+  width: fit-content;
+  text-align: center;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-SF-pro-text-medium-font-style);
+}
+
+.frame .group-tv-plus-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.frame .group-tv-plus {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 705.26px;
+  align-items: center;
+  padding: 0px 2530px 0px 0px;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.frame .container-21 {
+  position: relative;
+  width: 1265px;
+  height: 1px;
+  margin-left: -937.50px;
+  margin-right: -937.50px;
+}
+
+.frame .tabpanel {
+  left: 0;
+  display: flex;
+  width: 1265px;
+  height: 667px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 7.5px;
+  position: absolute;
+  top: 0;
+  background-color: #ffffff;
+}
+
+.frame .background-11 {
+  position: absolute;
+  width: 1250px;
+  height: 667px;
+  top: 0;
+  left: 8px;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(0, 0, 0, 0.5) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+
+.frame .container-22 {
+  display: flex;
+  width: 970px;
+  align-items: center;
+  position: relative;
+  top: 587px;
+  left: 70px;
+  opacity: 0.0;
+}
+
+.frame .stream-now-fly-me-to {
+  position: relative;
+  width: 134.96px;
+  height: 44px;
+  background-color: #f5f5f7;
+  border-radius: 980px;
+}
+
+.frame .margin-5 {
+  position: relative;
+  width: 379.24px;
+  height: 22px;
+}
+
+.frame .link {
+  position: relative;
+  width: 1250px;
+  height: 667.25px;
+}
+
+.frame .tabpanel-2 {
+  left: 2530px;
+  display: flex;
+  width: 1265px;
+  height: 667px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 7.5px;
+  position: absolute;
+  top: 0;
+  background-color: #ffffff;
+}
+
+.frame .div-wrapper-4 {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 72px;
+  align-items: flex-start;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f5f5f7;
+  border-radius: 980px;
+}
+
+.frame .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .margin-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 18px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-23 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  text-shadow: 0px 0px 5px #00000099;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.frame .span {
+  font-weight: var(--www-apple-com-SF-pro-display-bold-font-weight);
+  font-family: var(--www-apple-com-SF-pro-display-bold-font-family);
+  font-style: var(--www-apple-com-SF-pro-display-bold-font-style);
+  letter-spacing: var(--www-apple-com-SF-pro-display-bold-letter-spacing);
+  line-height: var(--www-apple-com-SF-pro-display-bold-line-height);
+  font-size: var(--www-apple-com-SF-pro-display-bold-font-size);
+}
+
+.frame .text-wrapper-18 {
+  font-family: var(--www-apple-com-SF-pro-display-regular-font-family);
+  font-style: var(--www-apple-com-SF-pro-display-regular-font-style);
+  font-weight: var(--www-apple-com-SF-pro-display-regular-font-weight);
+  letter-spacing: var(--www-apple-com-SF-pro-display-regular-letter-spacing);
+  line-height: var(--www-apple-com-SF-pro-display-regular-line-height);
+  font-size: var(--www-apple-com-SF-pro-display-regular-font-size);
+}
+
+.frame .tabpanel-3 {
+  left: 1265px;
+  display: flex;
+  width: 1265px;
+  height: 667px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 7.5px;
+  position: absolute;
+  top: 0;
+  background-color: #ffffff;
+}
+
+.frame .container-24 {
+  display: flex;
+  width: 970px;
+  align-items: center;
+  position: relative;
+  top: 567px;
+  left: 70px;
+  opacity: 1.0;
+}
+
+.frame .container-25 {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  align-items: flex-start;
+  position: absolute;
+  top: 673px;
+  left: 850px;
+}
+
+.frame .tablist-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10.5px 0px 6.5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .tablist {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .margin-7 {
+  display: flex;
+  flex-direction: column;
+  width: 22px;
+  height: 8px;
+  align-items: flex-start;
+  padding: 0px 7px;
+  position: relative;
+}
+
+.frame .div-5 {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.frame .tab-item-silo {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  background-color: #000000cc;
+  border-radius: 4px;
+}
+
+.frame .list {
+  position: absolute;
+  width: 1920px;
+  height: 705px;
+  top: 0;
+  left: 0;
+}
+
+.frame .section-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+  background-color: #ffffff;
+}
+
+.frame .div-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .gallery-of-apple {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 236px;
+  overflow: hidden;
+}
+
+.frame .container-26 {
+  display: flex;
+  width: 5184px;
+  align-items: flex-start;
+  position: relative;
+  left: -42px;
+}
+
+.frame .margin-8 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 15px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .link-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 236px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .link-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.frame .background-12 {
+  position: relative;
+  width: 417px;
+  height: 236px;
+  background-color: #181834;
+}
+
+.frame .container-27 {
+  position: absolute;
+  width: 74px;
+  height: 41px;
+  top: 195px;
+  left: 343px;
+}
+
+.frame .image {
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  top: 20px;
+  left: 15px;
+}
+
+.frame .container-28 {
+  display: flex;
+  flex-direction: column;
+  width: 62px;
+  align-items: flex-start;
+  position: absolute;
+  top: 109px;
+  left: 226px;
+}
+
+.frame .text-wrapper-19 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
+}
+
+.frame .background-13 {
+  position: relative;
+  width: 417px;
+  height: 236px;
+  background-image: url(./img/background.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .img-wrapper {
+  position: relative;
+  height: 236px;
+  background: linear-gradient(
+    180deg,
+    rgba(29, 29, 31, 0.5) 0%,
+    rgba(0, 0, 0, 0) 50%
+  );
+}
+
+.frame .container-29 {
+  position: absolute;
+  width: 93px;
+  height: 41px;
+  top: 195px;
+  left: 324px;
+}
+
+.frame .container-30 {
+  display: flex;
+  flex-direction: column;
+  width: 307px;
+  align-items: flex-start;
+  padding: 0px 0px 20px 15px;
+  position: absolute;
+  top: 198px;
+  left: 0;
+}
+
+.frame .text-wrapper-20 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
+}
+
+.frame .background-14 {
+  position: relative;
+  width: 417px;
+  height: 236px;
+  background-image: url(./img/background-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .container-31 {
+  position: absolute;
+  width: 83px;
+  height: 41px;
+  top: 195px;
+  left: 334px;
+}
+
+.frame .background-15 {
+  position: relative;
+  width: 417px;
+  height: 236px;
+  background-color: #c38a59;
+}
+
+.frame .container-32 {
+  display: flex;
+  flex-direction: column;
+  width: 101px;
+  align-items: flex-start;
+  position: absolute;
+  top: 109px;
+  left: 226px;
+}
+
+.frame .gradient-wrapper {
+  position: relative;
+  width: 417px;
+  height: 236px;
+  background-image: url(./img/background-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .gradient {
+  height: 236px;
+  background: linear-gradient(
+    180deg,
+    rgba(29, 29, 31, 0.5) 0%,
+    rgba(0, 0, 0, 0) 50%
+  );
+}
+
+.frame .margin-9 {
+  position: relative;
+  align-self: stretch;
+  width: 432px;
+}
+
+.frame .button-pause-the-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 16px 16px 16px 1880px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .button-pause-the {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-color: #d2d2d7;
+  border-radius: 12px;
+}
+
+.frame .mask-group {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 6px;
+  left: 6px;
+}
+
+.frame .footer {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 448px;
+  position: absolute;
+  top: 4982px;
+  left: 0;
+  background-color: #f5f5f7;
+}
+
+.frame .container-33 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  padding: 0px 22px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .section-footnotes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 17px 0px 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #00000029;
+}
+
+.frame .item {
+  height: 175.97px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .container-34 {
+  position: absolute;
+  width: 980px;
+  height: 32px;
+  top: 0;
+  left: 0;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 974px;
+  height: 32px;
+  top: -1px;
+}
+
+.frame .text-wrapper-21 {
+  position: absolute;
+  width: 531px;
+  height: 16px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .link-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 2px;
+  left: 531px;
+}
+
+.frame .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-link-underline-font-family);
+  font-weight: var(--www-apple-com-semantic-link-underline-font-weight);
+  color: #000000b8;
+  font-size: var(--www-apple-com-semantic-link-underline-font-size);
+  letter-spacing: var(--www-apple-com-semantic-link-underline-letter-spacing);
+  line-height: var(--www-apple-com-semantic-link-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-link-underline-font-style);
+}
+
+.frame .text-wrapper-23 {
+  position: absolute;
+  width: 385px;
+  height: 16px;
+  top: 0;
+  left: 588px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .text-wrapper-24 {
+  position: absolute;
+  width: 854px;
+  height: 16px;
+  top: 16px;
+  left: 0;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .apple-pay-is-a-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 980px;
+  align-items: flex-start;
+  position: absolute;
+  top: 42px;
+  left: 0;
+}
+
+.frame .apple-pay-is-a {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .container-35 {
+  display: flex;
+  flex-direction: column;
+  width: 980px;
+  align-items: flex-start;
+  position: absolute;
+  top: 83px;
+  left: 0;
+}
+
+.frame .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .container-36 {
+  display: flex;
+  width: 980px;
+  align-items: center;
+  position: absolute;
+  top: 109px;
+  left: 0;
+}
+
+.frame .div-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 961px;
+  height: 34px;
+  top: 133px;
+  left: 0;
+}
+
+.frame .features-are-subject {
+  position: absolute;
+  width: 961px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .link-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 18px;
+  left: 146px;
+}
+
+.frame .text-wrapper-26 {
+  position: absolute;
+  width: 4px;
+  height: 16px;
+  top: 16px;
+  left: 249px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .item-2 {
+  height: 121.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .element-hearing-aid-and {
+  position: absolute;
+  width: 956px;
+  height: 48px;
+  top: -1px;
+  left: 0;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 976px;
+  height: 48px;
+  top: 63px;
+  left: 0;
+}
+
+.frame .hearing-protection {
+  position: absolute;
+  width: 976px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .link-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 18px;
+  left: 453px;
+}
+
+.frame .for-total {
+  position: absolute;
+  width: 370px;
+  height: 16px;
+  top: 16px;
+  left: 603px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .text-wrapper-27 {
+  position: absolute;
+  width: 941px;
+  height: 16px;
+  top: 32px;
+  left: 0;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .item-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 9.6px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .text-wrapper-28 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .text-wrapper-29 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .item-4 {
+  display: flex;
+  align-items: center;
+  padding: 0px 0px 9.6px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .navigation-apple {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 20px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-37 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.frame .div-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.6px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-30 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-heading-3-font-family);
+  font-weight: var(--www-apple-com-semantic-heading-3-font-weight);
+  color: #000000e0;
+  font-size: var(--www-apple-com-semantic-heading-3-font-size);
+  letter-spacing: var(--www-apple-com-semantic-heading-3-letter-spacing);
+  line-height: var(--www-apple-com-semantic-heading-3-line-height);
+  font-style: var(--www-apple-com-semantic-heading-3-font-style);
+}
+
+.frame .listitem {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5px 0px 1px;
+  align-self: stretch;
+  width: 100%;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-31 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-link-font-family);
+  font-weight: var(--www-apple-com-semantic-link-font-weight);
+  color: #000000b8;
+  font-size: var(--www-apple-com-semantic-link-font-size);
+  letter-spacing: var(--www-apple-com-semantic-link-letter-spacing);
+  line-height: var(--www-apple-com-semantic-link-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-link-font-style);
+}
+
+.frame .container-38 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.6px;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -2.27e-13px;
+}
+
+.frame .container-39 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.6px;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -2.56e-13px;
+}
+
+.frame .list-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-40 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.59px;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-41 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.6px;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .health-records-on {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-link-font-family);
+  font-weight: var(--www-apple-com-semantic-link-font-weight);
+  color: #000000b8;
+  font-size: var(--www-apple-com-semantic-link-font-size);
+  letter-spacing: var(--www-apple-com-semantic-link-letter-spacing);
+  line-height: var(--www-apple-com-semantic-link-line-height);
+  font-style: var(--www-apple-com-semantic-link-font-style);
+}
+
+.frame .container-42 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.59px;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -1.42e-13px;
+}
+
+.frame .section-5 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 126px;
+}
+
+.frame .horizontal-border {
+  display: flex;
+  width: 980px;
+  max-height: 10019px;
+  align-items: center;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 37px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #00000029;
+}
+
+.frame .text-wrapper-32 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-link-underline-font-family);
+  font-weight: var(--www-apple-com-semantic-link-underline-font-weight);
+  color: #0066cc;
+  font-size: var(--www-apple-com-semantic-link-underline-font-size);
+  letter-spacing: var(--www-apple-com-semantic-link-underline-letter-spacing);
+  line-height: var(--www-apple-com-semantic-link-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-link-underline-font-style);
+}
+
+.frame .overlap-4 {
+  position: absolute;
+  width: 980px;
+  height: 37px;
+  top: 86px;
+  left: 0;
+}
+
+.frame .container-43 {
+  display: flex;
+  width: 980px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 30px;
+  padding: 0px 264.27px 5px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame .container-44 {
+  display: flex;
+  flex-direction: column;
+  width: 266.52px;
+  max-height: 9999px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .text-wrapper-33 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-right: -0.48px;
+  font-family: var(--www-apple-com-semantic-item-font-family);
+  font-weight: var(--www-apple-com-semantic-item-font-weight);
+  color: #0000008f;
+  font-size: var(--www-apple-com-semantic-item-font-size);
+  letter-spacing: var(--www-apple-com-semantic-item-letter-spacing);
+  line-height: var(--www-apple-com-semantic-item-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-semantic-item-font-style);
+}
+
+.frame .list-3 {
+  display: flex;
+  width: 419.21px;
+  align-items: flex-start;
+  gap: 9.3px;
+  padding: 4.75px 0px 0px;
+  position: relative;
+}
+
+.frame .div-wrapper-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 0px 9px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .vertical-divider {
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  left: 86px;
+  background-color: #0000007a;
+}
+
+.frame .vertical-divider-2 {
+  left: 82px;
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  background-color: #0000007a;
+}
+
+.frame .vertical-divider-3 {
+  left: 112px;
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  background-color: #0000007a;
+}
+
+.frame .vertical-divider-4 {
+  left: 39px;
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  background-color: #0000007a;
+}
+
+.frame .link-united-states-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 75px;
+  align-items: flex-start;
+  position: absolute;
+  top: 5px;
+  left: 905px;
+}
+
+.frame .link-united-states {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-34 {
+  flex: 1;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: var(--www-apple-com-semantic-link-font-family);
+  font-weight: var(--www-apple-com-semantic-link-font-weight);
+  color: #000000b8;
+  font-size: var(--www-apple-com-semantic-link-font-size);
+  letter-spacing: var(--www-apple-com-semantic-link-letter-spacing);
+  line-height: var(--www-apple-com-semantic-link-line-height);
+  font-style: var(--www-apple-com-semantic-link-font-style);
+}
+
+.frame .container-45 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .kimi-web-extension {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 6233px;
+  left: 0;
+}
+
+.frame .body-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .body {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+}
+
+.frame .image-2 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  top: -133px;
+  left: 1868px;
+  background-image: url(./img/image-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
